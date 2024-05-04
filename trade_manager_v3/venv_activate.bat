@@ -1,0 +1,1 @@
+start E:\Documents\projects\Python_Projects\mt5_python_robots\trade_manager_v1\venv\Scripts\activate
